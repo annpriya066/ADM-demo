@@ -53,7 +53,7 @@ Member 3:SREEHARI PRASAD T M
 
 Group_7		Name				github username
 --------------------------------------------------------------------
-Member 1: Hosea Varghese Kalayil		hoseakalayil
+Member 1: Hosea Varghese Kalayil		hvkalayil
 Member 2: JITHIN JOY
 Member 3: Kiran Raj
 
