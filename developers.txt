@@ -54,7 +54,7 @@ Member 3:SREEHARI PRASAD T M
 Group_7		Name				github username
 --------------------------------------------------------------------
 Member 1: Hosea Varghese Kalayil		hvkalayil
-Member 2: JITHIN JOY
+Member 2: JITHIN JOYY				jithin6k
 Member 3: Kiran Raj                            kiranraj62
 
 Group_8		Name				github username
@@ -88,9 +88,10 @@ Member 3:ARYAMOL A P
 Group_12	Name				github username
 --------------------------------------------------------------------
 
-Member 1:Ashly Mohan
-Member 2:Aswathy Unnikrishnan
-Member 3: Aswini K S
+Member 1:Ashly Mohan                               ashly21                             
+Member 2:Aswathy Unnikrishnan                      Aswathy22
+Member 3: Aswini K S				   Aswini-achu
+
 
 Group_13	Name				github username
 --------------------------------------------------------------------
@@ -212,9 +213,9 @@ Member 3:SREEHARI PRASAD T M
 
 Group_7		Name				github username
 --------------------------------------------------------------------
-Member 1: Hosea Varghese Kalayil
-Member 2: JITHIN JOY
-Member 3: Kiran Raj				kiranraj62
+Member 1: Hosea Varghese Kalayil		hvkalayil
+Member 2: JITHIN JOYY				jithin6k
+Member 3: Kiran Raj                            kiranraj62
 
 Group_8		Name				github username
 --------------------------------------------------------------------
