@@ -54,7 +54,7 @@ Member 3:SREEHARI PRASAD T M
 Group_7		Name				github username
 --------------------------------------------------------------------
 Member 1: Hosea Varghese Kalayil
-Member 2: JITHIN JOY
+Member 2: JITHIN JOY				jithin6k
 Member 3: Kiran Raj
 
 Group_8		Name				github username
@@ -214,7 +214,7 @@ Member 3:SREEHARI PRASAD T M
 Group_7		Name				github username
 --------------------------------------------------------------------
 Member 1: Hosea Varghese Kalayil
-Member 2: JITHIN JOY
+Member 2: JITHIN JOY				jithin6k
 Member 3: Kiran Raj
 
 Group_8		Name				github username
