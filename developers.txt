@@ -117,7 +117,7 @@ Group_16	Name				github username
 --------------------------------------------------------------------
 
 Member 1:LIYA JOHN
-Member 2:MARY SHEMNA V.N
+Member 2:MARY SHEMNA V.N		shemna39
 Member 3:MEGHA SANTHOSH
 
 Group_17	Name				github username
